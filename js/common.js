@@ -1,7 +1,7 @@
 /*
- * @Author: your name
- * @Date: 2020-12-26 15:52:27
- * @LastEditTime: 2020-12-26 16:54:40
+ * @Author: qinglei.zhang
+ * @Date: 2022-07-04 13:14:00
+ * @LastEditTime: 2022-07-04 13:14:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \(跨年)星空3D相册\js\common.js
