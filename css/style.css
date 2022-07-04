@@ -299,6 +299,10 @@ li {
   color: #fff;
 }
 
+#clock {
+  margin-left: 20px;
+}
+
 #clock .digit {
   font-size: 36px;
 }
